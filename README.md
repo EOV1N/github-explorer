@@ -4,7 +4,8 @@
 Проект для портфолио frontend-разработчика: React + TypeScript, асинхронные запросы
 с отменой, управление состоянием без сторонних сторов, localStorage, тесты Vitest.
 
-![Скриншот интерфейса](docs/screenshot.png)
+<img width="1174" height="788" alt="{FA0B4A0B-6111-4E45-BDFB-3D5931D6E025}" src="https://github.com/user-attachments/assets/a52fc84e-e0ac-4979-bd03-2ab3caeb5730" />
+
 
 ## Технологии
 
